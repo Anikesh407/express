@@ -127,6 +127,8 @@ git clone https://github.com/expressjs/express.git --depth 1 && cd express
 
 ```bash
 npm install
+
+hii
 ```
 
   Then run whichever example you want:
